@@ -1,7 +1,9 @@
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
+    list-style-type: none;
+}
+.box {
+    padding-top: 10px;
+    background: white;
 }
 
 .label {
@@ -16,4 +18,10 @@ li {
 
 .form-group {
     margin-bottom: 5px;
+}
+body {
+    background: grey;
+}
+button {
+    margin-left: 10px;
 }
